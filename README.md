@@ -76,7 +76,3 @@ This project is for educational and learning purposes.
 ---
 
 ## Author: Varrun Vashisht
-
-
-
-Just tell me 👍
